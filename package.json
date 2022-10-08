@@ -1,0 +1,25 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação do app BugerEats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aajota/TestesDeAceitacao.git"
+  },
+  "author": "Antonio Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aajota/TestesDeAceitacao/issues"
+  },
+  "homepage": "https://github.com/aajota/TestesDeAceitacao#readme",
+  "devDependencies": {
+    "cypress": "^9.0.0",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^5.5.3",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}

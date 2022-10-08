@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Groagnagi Sazo",
+        "cpf": "16846497089",
+        "email": "groagnagi4587@gmail.com",
+        "whatsapp": "11959854578",
+        "address": {
+            "postalcode": "26292093",
+            "street": "Rua Matteo Palladino",
+            "number": "55",
+            "details": "casa",
+            "district": "Campo Alegre",
+            "city_state": "Nova Iguaçu/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Antonio Lima",
+        "cpf": "168464970ee",
+        "email": "anto4875@gmail.com",
+        "whatsapp": "11959854578",
+        "address": {
+            "postalcode": "26292093",
+            "street": "Rua Matteo Palladino",
+            "number": "55",
+            "details": "casa",
+            "district": "Campo Alegre",
+            "city_state": "Nova Iguaçu/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Zeca Santos",
+        "cpf": "02845678644",
+        "email": "zeca02gmail.com",
+        "whatsapp": "11959854578",
+        "address": {
+            "postalcode": "26292093",
+            "street": "Rua Matteo Palladino",
+            "number": "55",
+            "details": "casa",
+            "district": "Campo Alegre",
+            "city_state": "Nova Iguaçu/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
